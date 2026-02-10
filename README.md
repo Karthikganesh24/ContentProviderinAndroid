@@ -1,5 +1,5 @@
 
-# Ex.No:3 Create Your Own Content Providers to get Contacts details.
+# Ex.No:04--Implement an application to display the Contact Details Using Content Provider.
 
 
 ## AIM:
@@ -188,4 +188,5 @@ public class MainActivity extends AppCompatActivity
 
 ## RESULT
 Thus a Simple Android Application create your own content providers to get contacts details using Android Studio is developed and executed successfully.
+
 
